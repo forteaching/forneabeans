@@ -19,6 +19,7 @@ public class Fodemo {
         // TODO code application logic here
         
         System.out.print("HWloow");
+        System.out.print("HWloow");
     }
     
 }
